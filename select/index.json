@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "witch (VIVINOS - ALNST Sub : MIZI Part.1)",
+  "base_artist": "Rubyeye",
+  "createdAt": "2026-03-31T15:03:04.402115Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "witch (VIVINOS - ALNST Sub : MIZI Part.1)",
+      "artist": "Rubyeye",
+      "has_synced": false,
+      "path": "select/01_witch_(VIVINOS_-_ALNST_Sub___MIZI_Part.1)_Rubyeye.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Burn the Witch",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/02_Burn_the_Witch_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Broken Witch",
+      "artist": "Liars",
+      "has_synced": false,
+      "path": "select/03_Broken_Witch_Liars.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Witch Doctor",
+      "artist": "The Microphones",
+      "has_synced": false,
+      "path": "select/04_Witch_Doctor_The_Microphones.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Japanese Word for Witch",
+      "artist": "of Montreal",
+      "has_synced": false,
+      "path": "select/05_Japanese_Word_for_Witch_of_Montreal.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Poet and the Witch",
+      "artist": "Mellow Candle",
+      "has_synced": false,
+      "path": "select/06_The_Poet_and_the_Witch_Mellow_Candle.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Witch",
+      "artist": "Mark Fry",
+      "has_synced": false,
+      "path": "select/07_The_Witch_Mark_Fry.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Witch Shocktronica Intro",
+      "artist": "Yoko Ono & Hank Shocklee",
+      "has_synced": true,
+      "path": "select/08_Witch_Shocktronica_Intro_Yoko_Ono_&_Hank_Shocklee.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Witch Shocktronica (Intro) (with Hank Shocklee)",
+      "artist": "Yoko Ono",
+      "has_synced": true,
+      "path": "select/09_Witch_Shocktronica_(Intro)_(with_Hank_Shocklee)_Yoko_Ono.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Burn the Witch (UNKLE Variation)",
+      "artist": "Queens of the Stone Age",
+      "has_synced": false,
+      "path": "select/10_Burn_the_Witch_(UNKLE_Variation)_Queens_of_the_Stone_Age.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "The Witch (Aswefall Remix)",
+      "artist": "Dombrance feat. Sourya",
+      "has_synced": false,
+      "path": "select/11_The_Witch_(Aswefall_Remix)_Dombrance_feat._Sourya.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "WITCH HUNT",
+      "artist": "Alice Glass",
+      "has_synced": true,
+      "path": "select/12_WITCH_HUNT_Alice_Glass.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Witch",
+      "artist": "Arca feat. No Bra",
+      "has_synced": true,
+      "path": "select/13_Witch_Arca_feat._No_Bra.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Witch (feat. No Bra)",
+      "artist": "Arca",
+      "has_synced": true,
+      "path": "select/14_Witch_(feat._No_Bra)_Arca.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Falling For a Witch",
+      "artist": "E-Rotic",
+      "has_synced": false,
+      "path": "select/15_Falling_For_a_Witch_E-Rotic.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Karma Is a Witch",
+      "artist": "Alice Longyu Gao",
+      "has_synced": true,
+      "path": "select/16_Karma_Is_a_Witch_Alice_Longyu_Gao.lrc"
+    }
+  ]
+}
